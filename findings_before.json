@@ -1,0 +1,30 @@
+[
+    {
+        "bucket": "delawoe-audit-test-1",
+        "issues": [
+            "Public access NOT fully blocked",
+            "Server access logging NOT enabled",
+            "No bucket policy set"
+        ],
+        "risk": "HIGH"
+    },
+    {
+        "bucket": "delawoe-audit-test-2",
+        "issues": [
+            "Versioning NOT enabled",
+            "Server access logging NOT enabled",
+            "No bucket policy set"
+        ],
+        "risk": "HIGH"
+    },
+    {
+        "bucket": "delawoe-audit-test-3",
+        "issues": [
+            "Versioning NOT enabled",
+            "Server access logging NOT enabled",
+            "No bucket policy set"
+        ],
+        "risk": "HIGH"
+    }
+]
+
