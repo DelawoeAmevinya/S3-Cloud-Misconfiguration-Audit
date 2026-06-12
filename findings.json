@@ -1,0 +1,17 @@
+[
+    {
+        "bucket": "delawoe-audit-test-1",
+        "issues": [],
+        "risk": "LOW"
+    },
+    {
+        "bucket": "delawoe-audit-test-2",
+        "issues": [],
+        "risk": "LOW"
+    },
+    {
+        "bucket": "delawoe-audit-test-3",
+        "issues": [],
+        "risk": "LOW"
+    }
+]
